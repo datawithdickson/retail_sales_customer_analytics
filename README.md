@@ -2,6 +2,21 @@
 
 ![Project Cover](file_000000004d3c820e83f8260a70f1287d.png)
 
+## Project Components
+
+This repository brings together two complementary projects covering retail sales and customer analytics:
+
+1. **PostgreSQL SQL Analysis** — database design, data quality checks, data cleaning, validation, and business analysis. See the SQL analysis documented below.
+2. **Power BI Sales Dashboard** — interactive analysis of sales, profitability, customers, products, regions, and sales trends.
+
+### Power BI Dashboard
+
+- [Power BI project documentation](Power-BI-Sales-Dashboard/README.md)
+- [Dashboard preview](Power-BI-Sales-Dashboard/Dashboard.png)
+- [Download the Power BI report (.pbix)](Power-BI-Sales-Dashboard/Retail_Sales%20%26%20Customer_%20Analytics.pbix)
+
+The Power BI project folder contains its own README, dashboard preview, and editable Power BI report.
+
 ## Overview  
 This project focuses on analysing sales and customer data using SQL. It includes relational database design, data exploration, data quality checks, data cleaning, and SQL-based business analysis. The goal is to showcase the expertise in database design, data manipulation, data extraction, data cleaning and SQL querying.
   
