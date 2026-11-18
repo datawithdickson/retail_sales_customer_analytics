@@ -28,7 +28,7 @@ The data for this project is sourced from the Kaggle dataset:
 
 ## Dashboard Preview
 
-![Retail Sales & Customer Analytics Dashboard](https://github.com/maketadickson/power-bi-sales_dashboard/blob/main/Dashboard.png)
+![Retail Sales & Customer Analytics Dashboard](https://github.com/datawithdickson/retail_sales_customer_analytics/blob/main/Power-BI-Sales-Dashboard/Dashboard.png)
 
 ## Key Insights
 
