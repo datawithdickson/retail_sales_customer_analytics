@@ -621,7 +621,6 @@ This project demonstrates an end-to-end PostgreSQL workflow from relational data
 
 ##  Get in touch!
 
-**Name:** Dickson Gaetan Maketa  
 **Email:** makettadickson@gmail.com  
 **Phone:** +255 755 660 020  
 **LinkedIn:** www.linkedin.com/in/dickson-maketa-61b7003bb
